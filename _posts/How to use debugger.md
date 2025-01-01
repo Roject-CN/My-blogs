@@ -1,3 +1,7 @@
+---
+title: "The first day in 2025"
+date: 2025-1-1
+---
 # How to use debugger?
 ![alt text](../Resource/debugging.jpg)
 - <b>Adding `printf()` statements everywhere 
